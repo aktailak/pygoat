@@ -1,4 +1,4 @@
-FROM python:3.10-buster
+FROM python:3.10.8-slim-bullseye
 
 # set up the psycopg2
 # set up the psycopg2
